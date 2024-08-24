@@ -25,7 +25,7 @@ def calculate_stats(count):
     return {
         'mean': mean,
         'median': median,
-        'std': std,
+        'standard deviation': std,
         'min': min,
         'max': max
     }
